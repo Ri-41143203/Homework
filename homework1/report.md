@@ -136,8 +136,8 @@ int main() {
 | 測試五   | $m = 3,\ n = 2$      | 29       | 29       |
 
 ### 編譯與執行指令
-![image1][https://github.com/Ri-41143203/hw/blob/main/hw1/1.png]
-![image2][https://github.com/Ri-41143203/hw/blob/main/hw1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-10-04%20225828.png]
+![image1](https://github.com/Ri-41143203/hw/blob/main/hw1/1.png)
+![image2](https://github.com/Ri-41143203/hw/blob/main/hw1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-10-04%20225828.png)
 ### 結論
 
 1. 程式能正確計算結果正確。
