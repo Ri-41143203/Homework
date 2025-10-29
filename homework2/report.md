@@ -242,4 +242,4 @@ int main() {
    使用Term與Polynomial結構，動態陣列管理多項式項目，插入新項時自動排序與合併，確保多項式簡潔。
 
    
-透過friend管理輸入輸出，避免外部程式直接存取內部私有成員。將add、mult、eval封裝於Polynomial內，。
+透過friend管理輸入輸出，避免外部程式直接存取內部私有成員。將add、mult、eval封裝於Polynomial內，不太清楚為什麼輸入沒辦法輸太多項(>5)，會出錯並且算出來的答案會錯。
