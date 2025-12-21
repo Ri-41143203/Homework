@@ -133,7 +133,7 @@ template <class T>
 class Polynomial
 {
 private:
-    ChainNode<T>* head; // dummy head
+    ChainNode<T>* head;
 
 public:
     Polynomial()
