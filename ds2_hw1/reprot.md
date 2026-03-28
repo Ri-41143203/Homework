@@ -285,7 +285,7 @@ int main()
 | 測試二   |  $Pop()$       |Top after pop: 4       |Top after pop: 4      |
 
 ### 編譯與執行指令
-![image1]([https://github.com/Ri-41143203/hw/blob/main/hw3/1.png](https://github.com/Ri-41143203/hw/blob/main/hw1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-03-28%20232858.png))
+![image1](https://github.com/Ri-41143203/hw/blob/main/hw1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-03-28%20232858.png)
 ### 結論
 
 1. MinHeap能正確維持最小堆積的特性，Push與Pop操作皆能保持heap結構。
