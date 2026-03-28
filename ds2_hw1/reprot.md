@@ -281,15 +281,15 @@ int main()
 
 | 測試案例 | 輸入參數 $n$ | 預期輸出 | 實際輸出 |
 |----------|--------------|----------|----------|
-| 測試一   | $Push(10), Push(4), Push(15), Push(2)$      |$Top element: 2$         |$Top element: 2$        |
-| 測試二   |  $Pop()$       |$Top after pop: 4$       |$Top after pop: 4$      |
+| 測試一   | $Push(10), Push(4), Push(15), Push(2)$      |Top element: 2        |Top element: 2        |
+| 測試二   |  $Pop()$       |Top after pop: 4       |Top after pop: 4      |
 
 ### 編譯與執行指令
 ![image1]([https://github.com/Ri-41143203/hw/blob/main/hw3/1.png](https://github.com/Ri-41143203/hw/blob/main/hw1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202026-03-28%20232858.png))
 ### 結論
 
 1. MinHeap能正確維持最小堆積的特性，Push與Pop操作皆能保持heap結構。
-2. Binary Search Tree在隨機插入資料時，其高度大致與$\log_2 n$成比例。
+2. Binary Search Tree在隨機插入資料時，其高度大致與($\log_2 n$)成比例。
 
 ## 申論及開發報告
 
